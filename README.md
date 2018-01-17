@@ -1,4 +1,4 @@
-# pemula_python
+# Pemula_Python - Belajar python dari nol
 script python sederhana 
 
 ## Menggunakan GIT dengan Command Line
