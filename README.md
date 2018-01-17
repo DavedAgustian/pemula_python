@@ -15,4 +15,4 @@ script python sederhana
 ## Menggunakan git dengan Pycharm
 - Membuka project yang sudah di-clone di command line
 - Merubah file
-- Mengirim file ke Github
+- Mengirim file menuju Github
